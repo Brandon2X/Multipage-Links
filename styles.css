@@ -1,0 +1,41 @@
+body{
+    background-color:yellowgreen;
+    margin-bottom: 500px;
+}
+#review1{
+  background-color: purple;
+}
+#review2{
+  background-color:  aqua;
+}
+
+#review3{
+  background-color: red;
+}
+
+#unique-link {
+ color: white
+}
+
+
+#another-link {
+  color: white
+}
+
+
+a{
+  font-size:100%;
+  text-align: center;
+
+}
+
+p{
+
+    font-size: 180%;
+}
+
+#review3-link{
+      color: white
+
+
+}
